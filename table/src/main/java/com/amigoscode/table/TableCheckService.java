@@ -5,7 +5,6 @@ import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
-import java.util.LinkedList;
 
 @Service
 @AllArgsConstructor
@@ -15,7 +14,7 @@ public class TableCheckService {
 
     public boolean canRegisterGuest(Integer guestId) {
 
-        LinkedList e = (LinkedList) tableCheckHistoryRepository.findAll();
+        ArrayList e = (ArrayList) tableCheckHistoryRepository.findAll();
         for (Object g : e ) {
             TableCheckHistory t = (TableCheckHistory) g;
             if(t.getGuestId() == 0){
