@@ -14,7 +14,9 @@ class GuestRepositoryTest {
 
     @BeforeEach
     void setUp() {
+        Assertions.fa
     }
+
 
     @AfterEach
     void tearDown() {
