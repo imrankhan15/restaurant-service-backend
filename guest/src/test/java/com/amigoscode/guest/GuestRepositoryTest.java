@@ -18,6 +18,9 @@ class GuestRepositoryTest {
 
     @AfterEach
     void tearDown() {
+       // Assertions
+
+
         underTest.deleteAll();
     }
 }
