@@ -58,8 +58,5 @@ class GuestServiceTest {
 
     }
 
-    @Test
-    @Disabled
-    void registerGuest() {
-    }
+
 }
