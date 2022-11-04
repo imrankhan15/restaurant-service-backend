@@ -43,7 +43,7 @@ class GuestServiceTest {
 
     void canAddGuest() {
         // given
-        Guest guest = new Guest("yxcydd","dsdf","sdfsdf");
+        Guest guest = new Guest("yxcydz","dsdf","sdfsdf");
         // when
         underTest.addGuest(guest);
 
