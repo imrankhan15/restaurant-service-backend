@@ -5,8 +5,8 @@ spring:
         name: table
     datasource:
         password: password
-        url: jdbc:postgresql://localhost:5432/table
-        username: amigoscode
+        url: jdbc:postgresql://localhost:5432/table1
+        username: postgres
     jpa:
         hibernate:
             ddl-auto: update

@@ -4,8 +4,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.amigoscode</groupId>
-  <artifactId>amigosservices</artifactId>
+  <groupId>com.restaurant</groupId>
+  <artifactId>RestaurantServices</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
 
@@ -15,7 +15,7 @@
     <module>table</module>
   </modules>
 
-  <name>restuaurantFullStack</name>
+  <name>RestaurantBackend</name>
 
 
   <properties>
