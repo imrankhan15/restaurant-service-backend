@@ -25,6 +25,6 @@ https://youtu.be/sALFMDv2V-g
 
 
 
-** I have learnt basics for these two projects from amigoscode.com
+**  Special Thanks to University of Bamberg and amigoscode.com where I have learnt basics for these two projects.
 
 
